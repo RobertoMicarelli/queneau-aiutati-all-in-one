@@ -42,6 +42,6 @@ Il racconto di come è nato è sul sito: [L'idea Queneau](https://www.ai-utati.i
 
 ---
 
-**AI-utati** · By Roberto Micarelli · Formatore, Coach, Consulente · [ai-utati.it](https://www.ai-utati.it)
+**AI-utati** · By Roberto Micarelli · Formatore, Coach, Consulente · [ai-utati.it](https://www.ai-utati.it) · [Scheda sul sito](https://www.ai-utati.it/risorse/idea-queneau/) · [Tutti i progetti](https://github.com/RobertoMicarelli/brand-ai-utati)
 
 **Provalo ora:** apri la demo e percorri i sette atti dall'inizio.
